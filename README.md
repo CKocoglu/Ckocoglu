@@ -8,3 +8,6 @@ For detailed information please visit my <a href="https://Ckocoglu.github.io/" t
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ckocoglu&show_icons=true&count_private=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckocoglu&langs_count=10)](https://github.com/Ckocoglu/github-readme-stats)
+
+

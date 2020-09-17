@@ -6,4 +6,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ckocoglu&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckocoglu&hide=Jupyter-Notebook)](https://github.com/Ckocoglu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckocoglu&hide=Java)](https://github.com/Ckocoglu/github-readme-stats)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 My name is Cihat and I'm currently working as a Analyst Developer at Hitit Computer Services.,
+💬 My name is Cihat and I'm currently working as a Analyst Developer at Hitit Computer Services. (Started at 01.01.2021),
 
 For detailed information please visit my <a href="https://Ckocoglu.github.io/" target="_blank">portfolio website.</a>
 

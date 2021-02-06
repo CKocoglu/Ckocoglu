@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 My name is Cihat and I'm currently searching a job.,
+💬 My name is Cihat and I'm currently working as a Analyst Developer at Hitit Compuer Services.,
 
 For detailed information please visit my <a href="https://Ckocoglu.github.io/" target="_blank">portfolio website.</a>
 
